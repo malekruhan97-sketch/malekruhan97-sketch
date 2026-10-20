@@ -1,5 +1,7 @@
 ## Hi there 👋
-
+## <p align="center">
+ ## <img src="IMAGE_URL" width="600">
+## </p>
 <!--
 **malekruhan97-sketch/malekruhan97-sketch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
